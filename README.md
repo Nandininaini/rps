@@ -1,4 +1,6 @@
 # rps
+
+# ROCK PAPER SCISSOR GAME
 import java.util.Random;
 import java.util.Scanner;
 
